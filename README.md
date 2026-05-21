@@ -3,7 +3,7 @@
 👩🏻‍💻Hey there! 
 I’m a Computer Science student with a passion for building, learning, and solving problems through technology. I enjoy transforming ideas into real-world applications and continuously challenging myself to grow as a developer.
 From writing efficient code to designing user-friendly experiences, I love every part of the development process. My interests span across software engineering, artificial intelligence, web development, and emerging technologies. I’m especially driven by projects that combine creativity with problem-solving.
-🚀 What I’m Focused On
+## 🚀 What I’m Focused On
 Building real-world projects that make an impact
 Strengthening my skills in full-stack development
 Exploring AI, automation, and modern software technologies
