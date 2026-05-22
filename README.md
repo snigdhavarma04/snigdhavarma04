@@ -1,4 +1,4 @@
-## Hey 👋, I'm Snigdha
+## Hey 👋🏻, I'm Snigdha
 
 💻 Computer Science Student | 🚀 The Future AI/ML Engineer | 🌎 Tech Enthusiast
 ## 👩🏻‍💻 About Me
