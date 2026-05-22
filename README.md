@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Snigdha
 
 💻 Computer Science Student | 🚀 Future Software Engineer | 🌎 Tech Enthusiast
-- 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 Computer Science student passionate about technology and innovation
 - 🚀 Currently learning Full-Stack Development & AI
 - 💡 Love building projects that solve real-world problems
