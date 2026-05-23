@@ -22,8 +22,8 @@
 
 📧 Email- snigdhavarma505@gmail.com
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📧+Email+-+snigdhavarma505@gmail.com;Open+Source+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&left=true&vleft=true&width=600&lines=📧+Email+-+snigdhavarma505@gmail.com;Open+Source+Enthusiast;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 🖥️ LinkdIn- www.linkedin.com/in/snigdhabedadam
